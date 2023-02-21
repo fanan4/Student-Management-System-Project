@@ -7,7 +7,6 @@ import org.springframework.web.bind.annotation.*;
 import java.net.http.HttpResponse;
 
 @RestController
-
 public class hamzasCont {
 
     private usersRepo repo ;
@@ -17,7 +16,7 @@ public class hamzasCont {
     }
                 @DeleteMapping("/deleteusre/{id}")
                 @ResponseStatus
-        public void deleteUser(@RequestParam String id){
+        public void deleteUser(@PathVariable String id){
 try{
     repo.deleteById(id);
 }catch (Exception e){
