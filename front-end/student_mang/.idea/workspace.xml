@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e06e346c-43b3-46ed-a73c-3c4e44375d53" name="Changes" comment="" />
+    <list default="true" id="e06e346c-43b3-46ed-a73c-3c4e44375d53" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../back-end/student_mang/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../back-end/student_mang/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../back-end/student_mang/src/main/java/com/proj/student_mang/StudentMangApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../back-end/student_mang/src/main/java/com/proj/student_mang/StudentMangApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../back-end/student_mang/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../back-end/student_mang/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +35,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/fanan/myProject/Student-Management-System-Project/back-end/student_mang"
+    "last_opened_file_path": "C:/fanan/myProject/Student-Management-System-Project/back-end/student_mang",
+    "spring.configuration.checksum": "d0a241c624e301d0b203af1c5987d2f2"
   }
 }]]></component>
   <component name="RunManager">
@@ -52,6 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1676985418514</updated>
       <workItem from="1676985420192" duration="706000" />
+      <workItem from="1676989051615" duration="6000" />
     </task>
     <servers />
   </component>
