@@ -6,4 +6,4 @@ val firstName: String,
    val email: String,
     val pic: String,
    val desc: String
-)
+){}

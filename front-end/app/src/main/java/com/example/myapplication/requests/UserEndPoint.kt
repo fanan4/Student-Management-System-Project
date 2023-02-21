@@ -24,14 +24,14 @@ public interface UserEndPoint  {
 
 
 
- @PUT("users/{userId}")
-fun updateUser(@Path("userId") userId : String ) :  User
+ @PUT("users")
+fun updateUser(@Body user: User): Response<ResponseBody>
 
 
 
 
  @GET("users/{userId}")
-  fun getUser(@Path("userId") userId: String): User
+  fun getUser(@Path("userId") userId: String): Call<User>
 
 
 
